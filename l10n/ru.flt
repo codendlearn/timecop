@@ -122,7 +122,15 @@ collapseDays = Свернуть Дни
 
 autocompleteDescription = Автозаполнение описаний
 
+defaultFilterStartDateToMonday = Дата начала фильтра по умолчанию - понедельник
+
 hours = часов
 
 total = Всего
+
+oneTimerAtATime = Разрешить только один таймер
+
+selectAll = Выбрать все
+
+selectNone = Выберите Нет
 

@@ -118,7 +118,15 @@ collapseDays = Tutup Hari
 
 autocompleteDescription = Deskripsi Pelengkapan Otomatis
 
+defaultFilterStartDateToMonday = Tanggal Mulai Filter Default hingga Senin
+
 hours = Jam
 
 total = Total
+
+oneTimerAtATime = Hanya Bolehkan Satu Pengatur Waktu Berjalan dalam satu Waktu
+
+selectAll = Pilih Semua
+
+selectNone = Pilih Tidak Ada
 

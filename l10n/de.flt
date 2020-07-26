@@ -118,7 +118,15 @@ collapseDays = Tage reduzieren
 
 autocompleteDescription = Beschreibungen der automatischen Vervollständigung
 
+defaultFilterStartDateToMonday = Standard-Filterstartdatum bis Montag
+
 hours = Std
 
 total = Gesamt
+
+oneTimerAtATime = Es ist jeweils nur ein laufender Timer zulässig
+
+selectAll = Wählen Sie Alle
+
+selectNone = Nichts ausgewählt
 
